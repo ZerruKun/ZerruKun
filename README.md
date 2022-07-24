@@ -14,7 +14,7 @@
 
 ## My social
 
-[<img aligh="left" alt="VK" width="22px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
+<img aligh="left" alt="VK" width="22px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>[vk]
 
 [vk]: https://vk.com/zellkun
 
