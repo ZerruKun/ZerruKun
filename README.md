@@ -14,9 +14,13 @@
 
 ## My social
 
-[<img aligh="left" alt="VK" width="22px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
+[<img aligh="left" alt="VK" width="25px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
 
 [vk]: https://vk.com/zellkun
+
+## Languages and Tools
+
+<img aligh="left" alt="HTML5" width="25px" scr="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
 <!--
 **ZerruKun/ZerruKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
