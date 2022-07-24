@@ -12,6 +12,12 @@
 
 - 🎉 I love to play video games and guitar, singing, reading, go to open air for adventures (tourism) or casually walk, do some physical exercises and make handmade crafts.
 
+## My social
+
+[<img aligh="left" alt="VK" width="22px" scr="https://cdn-icons.flaticon.com/png/512/3670/premium/3670029.png?token=exp=1658666212~hmac=eba875c06ed68f2976a422d04c549510"/>][vk]
+
+[vk]: https://vk.com/zellkun
+
 <!--
 **ZerruKun/ZerruKun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
