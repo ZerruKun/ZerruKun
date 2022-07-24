@@ -14,7 +14,7 @@
 
 ## My social
 
-[<img aligh="left" alt="VK" width="22px" scr="https://camo.githubusercontent.com/e592c20d95b090aa29343254f304b04216926124ba1b8e45c490514982e6ea21/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f766b2e737667"/>][vk]
+[<img aligh="left" alt="VK" width="22px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
 
 [vk]: https://vk.com/zellkun
 
