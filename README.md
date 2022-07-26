@@ -12,10 +12,7 @@
 
 - 🎉 I love to play video games and guitar, singing, reading, go to open air for adventures (tourism) or casually walk, do some physical exercises and make handmade crafts.
 
-<details>
-  <summary>Some summary</summary>
-  ![Description](https://www.svgrepo.com/show/349554/vk.svg)
-</details>
+![stack Overflow](http://lmsotfy.com/so.png)
 
 <!-- ## My social
 
