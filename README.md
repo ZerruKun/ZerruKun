@@ -33,13 +33,13 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerruKun&show_icons=true&theme=tokyonight)
 </br>
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/ZerruKun)
 </br>
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/ZerruKun)
 </br>
 
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/ZerruKun)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerruKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
