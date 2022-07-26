@@ -14,6 +14,11 @@
 
 ![stack Overflow](http://lmsotfy.com/so.png)
 
+[<img aligh="left" alt="VK" width="25px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
+
+<img aligh="left" alt="VK" width="25px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>
+
+
 <!-- ## My social
 
 [<img aligh="left" alt="VK" width="25px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
