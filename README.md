@@ -19,10 +19,10 @@
 <img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/github.png"/>
 </br>
 
-
 ## My social
 
 [<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/hh.png"/>][hh]
 </br>
 
 ## And i am also a human
