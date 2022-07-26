@@ -8,17 +8,22 @@
 - ⚡ I am constantly learning new things by reading articles and watching learning videos
 - 💪 I am waiting to start of development courses for growing up my programming skills and finding new contacts
 
+## Used tools and languages
+
+
+
+## My social
+
+[<img aligh="left" alt="VK" width="25px" src="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
+
+
+
 ## And i am also a human
 
 - 🎉 I love to play video games and guitar, singing, reading, go to open air for adventures (tourism) or casually walk, do some physical exercises and make handmade crafts.
 
-![stack Overflow](http://lmsotfy.com/so.png)
 
-[<img aligh="left" alt="VK" width="25px" src="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
 
-<img aligh="left" alt="VK" width="25px" src="https://www.svgrepo.com/show/349554/vk.svg"/>
-
-[![VK](https://www.svgrepo.com/show/349554/vk.svg)][vk]
 
 [vk]: https://vk.com/zellkun
 
