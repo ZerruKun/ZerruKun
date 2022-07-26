@@ -18,6 +18,8 @@
 
 <img aligh="left" alt="VK" width="25px" scr="https://www.svgrepo.com/show/349554/vk.svg"/>
 
+[![VK](https://www.svgrepo.com/show/349554/vk.svg)][vk]
+
 [vk]: https://vk.com/zellkun
 
 <!-- ## My social
