@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Nikolay.
+<h1 align="center">Hi there! 👋 My name is Nikolay.</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+want+to+be+a+frontend+developer)](https://git.io/typing-svg)
 
@@ -31,6 +31,15 @@
 </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerruKun&show_icons=true&theme=tokyonight)
+</br>
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+</br>
+
+[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+</br>
+
+[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/username)
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerruKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
