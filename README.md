@@ -33,7 +33,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerruKun&show_icons=true&theme=tokyonight)
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ZerruKun=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerruKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [vk]: https://vk.com/zellkun
 [hh]: https://obninsk.hh.ru/resume/63989cf1ff0afd55320039ed1f554a3961384e
