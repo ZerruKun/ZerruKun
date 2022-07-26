@@ -10,11 +10,13 @@
 
 ## Used tools and languages
 
+<img aligh="left" alt="HTML5" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/html5.png"/>
+<img aligh="left" alt="СSS3" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/css3.png"/>
 
 
 ## My social
 
-[<img aligh="left" alt="VK" width="25px" src="https://www.svgrepo.com/show/349554/vk.svg"/>][vk]
+[<img aligh="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
 
 
 
