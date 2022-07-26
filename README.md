@@ -10,13 +10,18 @@
 
 ## Used tools and languages
 
-<img aligh="left" alt="HTML5" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/html5.png"/>
-<img aligh="left" alt="СSS3" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/css3.png"/>
+<img align="left" alt="HTML5" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/html5.png"/>
+<img align="left" alt="СSS3" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/css3.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/javascript.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/react.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
 
 
 ## My social
 
-[<img aligh="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
 
 
 
