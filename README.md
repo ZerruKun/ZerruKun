@@ -36,13 +36,8 @@
 [![codewars](https://www.codewars.com/users/ZerruKun/badges/large)](https://www.codewars.com/users/ZerruKun)
 </br>
 
-[![codewars](https://www.codewars.com/users/ZerruKun/badges/small)](https://www.codewars.com/users/ZerruKun)
-</br>
-
-[![codewars](https://www.codewars.com/users/ZerruKun/badges/micro)](https://www.codewars.com/users/ZerruKun)
-</br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZerruKun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</br>
 
 [vk]: https://vk.com/zellkun
 [hh]: https://obninsk.hh.ru/resume/63989cf1ff0afd55320039ed1f554a3961384e
