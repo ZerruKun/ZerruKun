@@ -28,9 +28,9 @@
 ## And i am also a human
 
 - 🎉 I love to play video games and guitar, singing, reading, go to open air for adventures (tourism) or casually walk, do some physical exercises and make handmade crafts.
+</br>
 
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerruKun&show_icons=true&theme=tokyonight)
 
 [vk]: https://vk.com/zellkun
 [hh]: https://obninsk.hh.ru/resume/63989cf1ff0afd55320039ed1f554a3961384e
