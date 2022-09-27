@@ -6,7 +6,7 @@
 
 - 🌱 I am currently learning javascript and react by myself
 - ⚡ I am constantly learning new things by reading articles and watching learning videos
-- 💪 I am waiting to start of development courses for growing up my programming skills and finding new contacts
+- 💪 I am starting development courses for growing up my programming skills and finding new contacts
 
 ## Used tools and languages
 
