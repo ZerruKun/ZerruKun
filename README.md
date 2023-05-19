@@ -1,12 +1,12 @@
 <h1 align="center">Hi there! 👋 My name is Nikolay.</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+want+to+be+a+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+stranger!)](https://git.io/typing-svg)
 
 ## Now days
 
-- 🌱 I am currently learning javascript and react by myself
-- ⚡ I am constantly learning new things by reading articles and watching learning videos
-- 💪 I am starting development courses for growing up my programming skills and finding new contacts
+- 🌱 I am constantly testing new things in javascript and react by myself
+- 💪 I am ending development courses for growing up my programming skills
+- ⚡ I have managed to work on several commercial projects and currently looking for a job
 
 ## Used tools and languages
 
