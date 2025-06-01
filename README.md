@@ -4,19 +4,23 @@
 
 ## Now days
 
-- 🌱 I am constantly testing new things in javascript and react by myself
-- 💪 I am ending development courses for growing up my programming skills
-- ⚡ I have managed to work on several commercial projects and currently looking for a job
+- 🌱 I am constantly learning new things in development and DevOps methodology
+- ⚡ I have managed to work on several pets and commercial projects
+- 🚀 Now I'm looking for a place where I can impruve and use my skills
 
 ## Used tools and languages
 
 <img align="left" alt="HTML5" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/html5.png"/>
 <img align="left" alt="СSS3" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/css3.png"/>
 <img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/javascript.png"/>
-<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/react.png"/>
-<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
-<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/git.png"/>
-<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/github.png"/>
+<img align="left" alt="React" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/react.png"/>
+<img align="left" alt="VSCode" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
+<img align="left" alt="Git" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/git.png"/>
+<img align="left" alt="GitHub" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/github.png"/>
+<img align="left" alt="Python" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/python.png"/>
+<img align="left" alt="Terraform" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/terraform.png"/>
+<img align="left" alt="Ansible" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/ansible.png"/>
+<img align="left" alt="Docker" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/docker.png"/>
 </br>
 
 ## My social
@@ -27,8 +31,8 @@
 
 ## And i am also a human
 
-- 🎉 I like to play video games and guitar, singing, reading, go to open air for adventures (tourism) or casually walk, do some physical exercises and make handmade crafts.
-</br>
+- 🎉 I like to play video games and board games with friends, playing electro guitar, drawing, fensing and doing some workout, go to open air for adventures (tourism) or casually walk.
+  </br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZerruKun&show_icons=true&theme=tokyonight)
 </br>
@@ -40,8 +44,8 @@
 </br>
 
 [vk]: https://vk.com/zellkun
-[hh]: https://obninsk.hh.ru/resume/63989cf1ff0afd55320039ed1f554a3961384e
+[hh]: https://obninsk.hh.ru/resume/f689f454ff0bd3a91e0039ed1f38396372654d
 
 <!--
-💪🎉🥅⚡🤹🏽🔭🌱👯🤔💬📫😄⚡✨
+💪🎉🥅⚡🤹🏽🔭🌱👯🤔💬📫😄⚡✨🚀
 -->
